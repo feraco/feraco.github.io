@@ -8,27 +8,27 @@
 
 
 ---
-[APP 1](https://apps.apple.com/us/app/ap-bio-buddy-2019/id945356217)
-<img src="images/320x0w(1).jpg?raw=true"/>
+[AP Bio Buddy](https://apps.apple.com/us/app/ap-bio-buddy-2019/id945356217)
+<img src="images/320x0w(18).jpg?raw=true"/>
 
 ---
 [APP 1](https://apps.apple.com/us/app/ap-european-history-buddy/id945382767)
-<img src="images/320x0w(1).jpg?raw=true"/>
+<img src="images/320x0w(19).jpg?raw=true"/>
 ---
 [APP 1](https://apps.apple.com/us/app/ap-human-geography-buddy/id945382802)
-<img src="images/320x0w(1).jpg?raw=true"/>
+<img src="images/320x0w(20).jpg?raw=true"/>
 ---
 [APP 1](https://apps.apple.com/us/app/ap-psychology-buddy-2019/id945382857)
-<img src="images/320x0w(1).jpg?raw=true"/>
+<img src="images/320x0w(21).jpg?raw=true"/>
 ---
 [APP 1](https://apps.apple.com/us/app/ap-us-history-buddy/id945389061)
-<img src="images/320x0w(1).jpg?raw=true"/>
+<img src="images/320x0w(22).jpg?raw=true"/>
 ---
 [APP 1](https://apps.apple.com/us/app/ap-world-history-buddy-2019/id945389077)
-<img src="images/320x0w(1).jpg?raw=true"/>
+<img src="images/320x0w(23).jpg?raw=true"/>
 ---
 [APP 1](https://apps.apple.com/us/app/apes-buddy-environ-science/id945389566)
-<img src="images/320x0w(1).jpg?raw=true"/>
+<img src="images/320x0w(24).jpg?raw=true"/>
 ---
 [APP 1](https://apps.apple.com/us/app/asvab-exam-buddy-2019/id954163693)
 <img src="images/320x0w(1).jpg?raw=true"/>
@@ -138,17 +138,17 @@
 [APP 1](https://apps.apple.com/us/app/global-history-regents-buddy/id513751534)
 <img src="images/320x0w(1).jpg?raw=true"/>
 ---
-[APP 1](https://apps.apple.com/us/app/hs-biology-buddy-2019/id546321097)
-<img src="images/320x0w(1).jpg?raw=true"/>
+[HS Biology Buddy](https://apps.apple.com/us/app/hs-biology-buddy-2019/id546321097)
+<img src="images/320x0w(10).jpg?raw=true"/>
 ---
-[APP 1](https://apps.apple.com/us/app/hs-chemistry-buddy/id547701853)
-<img src="images/320x0w(1).jpg?raw=true"/>
+[HS Chemistry Buddy](https://apps.apple.com/us/app/hs-chemistry-buddy/id547701853)
+<img src="images/320x0w(11).jpg?raw=true"/>
 ---
 [APP 1](https://apps.apple.com/us/app/hs-earth-science-buddy/id922104057)
 <img src="images/320x0w(1).jpg?raw=true"/>
 ---
 [APP 1](https://apps.apple.com/us/app/hs-physics-buddy-2019/id565978010)
-<img src="images/320x0w(1).jpg?raw=true"/>
+<img src="images/320x0w(13).jpg?raw=true"/>
 ---
 [APP 1](https://apps.apple.com/us/app/mblex-prep-2019/id1455219901)
 <img src="images/320x0w(1).jpg?raw=true"/>
