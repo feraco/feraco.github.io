@@ -13,11 +13,12 @@
 
 ---
 [Project 3 Title](http://example.com/))
-<img src="images/dummy_thumbnail.jpg?raw=true"/>)
 <img src="images/320x0w(1).jpg?raw=true"/>
 ---
 [APP 1](https://apps.apple.com/us/app/ap-bio-buddy-2019/id945356217)
-<img src="images/320x0w(1).jpg?raw=true"/>  --- [APP 1](https://apps.apple.com/us/app/ap-european-history-buddy/id945382767)
+<img src="images/320x0w(1).jpg?raw=true"/>  
+
+--- [APP 1](https://apps.apple.com/us/app/ap-european-history-buddy/id945382767)
 <img src="images/320x0w(1).jpg?raw=true"/> --- [APP 1](https://apps.apple.com/us/app/ap-human-geography-buddy/id945382802)
 <img src="images/320x0w(1).jpg?raw=true"/>  --- [APP 1](https://apps.apple.com/us/app/ap-psychology-buddy-2019/id945382857)
 <img src="images/320x0w(1).jpg?raw=true"/>  --- [APP 1](https://apps.apple.com/us/app/ap-us-history-buddy/id945389061)
@@ -80,7 +81,7 @@
 <img src="images/320x0w(1).jpg?raw=true"/>  --- [APP 1](https://apps.apple.com/us/app/world-history-buddy-2019/id551764224)
 <img src="images/320x0w(1).jpg?raw=true"/>  --- [APP 1](https://apps.apple.com/us/developer/feraco-media-inc/id497957884)
 <img src="images/320x0w(1).jpg?raw=true"/>  --- [APP 1](https://apps.apple.com/us/developer/feraco-media-inc/id497957884#)
-<img src="images/320x0w(1).jpg?raw=true"/>  --- [APP 1]
+<img src="images/320x0w(1).jpg?raw=true"/>  --- 
 ---
 
 ### Category Name 2
