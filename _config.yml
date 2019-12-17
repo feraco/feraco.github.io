@@ -1,8 +1,10 @@
 title: Frederick Feraco # 
 logo: "/images/logo.png?raw=true" # 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>Software Engineer<br>
-  <br>Educator<br>
+  <br><br>
+  Software Engineer
+  <br><br>
+  Educator
   <a href="https://www.linkedin.com/in/frederick-feraco-74882253">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-architect
